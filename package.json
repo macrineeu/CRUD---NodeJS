@@ -1,0 +1,19 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "CRUD node +  Mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/macrineeu/CRUD---NodeJS.git"
+  },
+  "author": "Matheus Macrineu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macrineeu/CRUD---NodeJS/issues"
+  },
+  "homepage": "https://github.com/macrineeu/CRUD---NodeJS#readme"
+}
