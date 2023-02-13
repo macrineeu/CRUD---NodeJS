@@ -12,10 +12,6 @@
   },
   "author": "Matheus Macrineu",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/macrineeu/CRUD---NodeJS/issues"
-  },
-  "homepage": "https://github.com/macrineeu/CRUD---NodeJS#readme",
   "dependencies": {
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
